@@ -1,0 +1,26 @@
+employee_id,name,age,department,gender,salary,job_satisfaction,last_promotion,education_level,etat_civil,enfants,groupe_sanguin
+1,Jean Sannon,34,Marketing,M,55000,8,2021,NaN,marie,3,A+
+2,Marie Dubois,29,Finance,F,60000.89,7,2020,Master,Divorce,1,O+
+3,Paul Pogba,45,HR,M,65000,6,2018,Master,marie,3,A+
+4,Sophie Bernard,38,IT,F,70000,9,2022,Bachelor,Celibataire,3,B+
+5,Lub Durand,31,Sales,M,52000,7,2023,Bachelor,marie,1,A+
+6,Emma Beyonce,26,Marketing,F,48000.24,8,2023,NaN,marie,0,O+
+7,Lucas Moreau,40,Finance,M,62000,5,2019,Master,marie,3,A+
+8,Chloe Simon,33,HR,F,58000,6,2020,Bachelor,marie,2,A+
+9,Julien Attie,28,IT,M,74000,9,2021,Master,Celibataire,0,O-
+10,Alice Rousseau,37,Sales,F,53000.30,7,2022,Master,Divorce,2,A-
+11,Martin Leroy,50,Marketing,M,69000,6,2017,NaN,Celibataire,3,A+
+12,Elise Lamissere,24,Finance,F,47000.39,8,2023,Bachelor,marie,3,A+
+13,Noah Girard,32,HR,M,60000,7,2021,Master,marie,5,A+
+14,Lea Roger,27,IT,F,75000,9,2023,Master,marie,4,A+
+15,Victor Messi,41,Sales,M,56000,6,2019,Bachelor,Divorce,0,A-
+16,Lucie Joseph,22,Sales,F,50000,6,2023,NaN,marie,3,O+
+17,Antoine Simon,30,HR,M,59000,7,2020,Bachelor,Celibataire,1,A-
+18,Louis Dupont,39,Marketing,M,58000,8,2022,Master,marie,2,O+
+19,Sophie Dupuis,36,Finance,F,67000,9,2021,Master,marie,2,A+
+20,Thomas Martin,43,IT,M,72000,7,2020,Bachelor,Divorce,1,A-
+21,Manon Laurent,32,Sales,F,54000,8,2023,Master,marie,3,A-
+22,David Durand,29,HR,M,61000,6,2019,Bachelor,marie,1,A+
+23,Lea Morel,35,Finance,F,64000,7,2021,Master,Celibataire,0,O+
+24,Romain Giroud,42,IT,M,70000,8,2022,Bachelor,marie,2,A+
+25,Sarah Lecomte,28,Marketing,F,55000,7,2023,Master,marie,2,A+

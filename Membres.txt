@@ -1,0 +1,7 @@
+Membres :
+Heraldy DEBROSSE
+Stanley LOUIS
+Carl Obed Esdras DORVIL
+Arbens VITAL
+
+Dans Notre devoir nous presentons une entreprise avec plusieurs department (Marketing,Finance,HR,IT,Sales), nous faisons des test sur la moyenne d'age par department, moyenne de salaire, moyenne de statisfaction etc
